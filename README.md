@@ -2,7 +2,7 @@
 
 ## Project Overview
 This project focuses on forecasting energy consumption using historical data. It aims to provide accurate predictions that can help in optimizing energy distribution and planning. The project leverages various data analysis and machine learning techniques to analyze patterns and predict future energy consumption levels.
-hi
+
 
 ## Features
 - Data preprocessing and exploration to understand energy consumption trends.
